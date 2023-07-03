@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Shradha Vastrakar",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIH3cVN9nVOwezMJZgjRo0YhASylFMo1nJpw&usqp=CAU",
+      "age": "25",
+      "place": "HSR Banglore",
+      "profession": "FSD",
+      "batch": "web15",
+      "id": 1
+    },
+    {
+      "name": "suman",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIH3cVN9nVOwezMJZgjRo0YhASylFMo1nJpw&usqp=CAU",
+      "age": "24",
+      "place": "Chattisgarh",
+      "profession": "Frontend",
+      "batch": "web15",
+      "id": 2
+    },
+    {
+      "name": "Ashish",
+      "age": "27",
+      "place": "Kerala",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiibOngFYog5Ri5UoFKH3CsHMOvomBLf4JAw&usqp=CAU",
+      "profession": "FSD",
+      "batch": "web14",
+      "id": 4
+    },
+    {
+      "name": "ansh",
+      "age": "21",
+      "place": "banglore",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiibOngFYog5Ri5UoFKH3CsHMOvomBLf4JAw&usqp=CAU",
+      "profession": "FSD",
+      "batch": "web13",
+      "id": 5
+    },
+    {
+      "name": "steve",
+      "age": "26",
+      "place": "banglore",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiibOngFYog5Ri5UoFKH3CsHMOvomBLf4JAw&usqp=CAU",
+      "profession": "FSD",
+      "batch": "web13",
+      "id": 6
+    }
+  ]
+}
